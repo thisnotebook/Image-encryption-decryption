@@ -30,4 +30,4 @@ The hardware implementation should be synchronous with a base clock frequency of
 
 ### Output
 The output should be the encrypted image and the decrypted image obtained from it.
-![image](https://github.com/princeranjan03/ImageEncryption_I-CHIP/blob/main/Enigma.png)
+![image](https://github.com/thisnotebook/Image-encryption-decryption/blob/main/Enigma.png)
